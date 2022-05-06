@@ -1,0 +1,2 @@
+# KursGit
+Uczymy się gita
